@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=thizzy824.thizzy824)
+
 [![thizz824's GitHub stats](https://github-readme-stats.vercel.app/api?username=thizzy824)](https://github.com/thizzy824/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thizzy824&layout=compact)](https://github.com/thizzy824/github-readme-stats)
