@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<h3 align=center> Aaron Pastora</h3>
 
 [![thizz824's GitHub stats](https://github-readme-stats.vercel.app/api?username=thizzy824)](https://github.com/thizzy824/github-readme-stats)
 
